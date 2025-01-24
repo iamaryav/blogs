@@ -1,1 +1,1 @@
-# blogs
+# Sharing my thoughts.
